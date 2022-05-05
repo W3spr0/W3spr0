@@ -1,8 +1,10 @@
 ## Olá eu sou Wesley
 
-- 👀 Amante da programação e segurança da informação
-- 🌱 Gosto de aprender coisas novas sobre todo na area da computação
-- 💞️ Tenho um pouco de experiencia em Sratch, HTML5, CSS3, JS e NodeJS(Back end e front end) 
+- 👋 Hi, I’m @W3spr0
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!---
 W3spr0/W3spr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +17,15 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3spr0&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
-  <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <div>
+<h2>Scratch</h2>
+- <a href="https://scratch.mit.edu/users/WesleyAluraEdutech/">Conta do Edutech 2021</a> <br>
+- <a href="https://scratch.mit.edu/users/WesleyJulio/"> Conta da escola julio mesquita curitiba</a>
+<h2>P5JS</h2>
+<br>
+
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alencar.wesley@escola.pr.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
