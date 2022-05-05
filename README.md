@@ -1,10 +1,8 @@
 ## Olá eu sou Wesley
 
-- 👋 Hi, I’m @W3spr0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Amante da programação e segurança da informação
+- 🌱 Gosto de aprender coisas novas sobre todo na area da computação
+- 💞️ Tenho um pouco de experiencia em Sratch, HTML5, CSS3, JS e NodeJS(Back end e front end) 
 
 <!---
 W3spr0/W3spr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
