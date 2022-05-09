@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+ 
+.card{
+    width: 940px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 50px 50px;
+}
+
+.card li img{
+  width: 100%;
+}
+
+.card li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 10px 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border:2px solid black;
+    border-radius: 10px;
+    background: rgba(255, 255, 255);
+}
+
+
+.card-cardlink, .card-cardlink *{
+  text-decoration: none;
+  color: black;
+}
+
+.texto-a{
+  color: #C78C19;
+}
+
+
+.card li:hover {
+    border-color: #C78C19;
+
+}
+
+.card li:active {
+    border-color: green;
+}
+
+.card li:hover h2 {
+    font-size: 34px;
+}
+.card h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.card-descricao{
+    font-size:18px;
+}
+
+.card-botao{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+    border:1px solid black;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.card li:hover{
+  background-color: rgb(2, 1, 49, );
+  transition: 0.3s;
+}
+.card-msg{
+    width: 70%;
+    margin: 0 auto;
+    padding: 50px 0;
+  }
+  
+  .subcard-msg{
+    display: inline-block;
+    width: auto;
+    vertical-align: top;
+    padding: 10px;
+    box-sizing: border-box;
+    border:1px solid black;
+    border-radius: 1px 1px 50px 1px;
+    background: rgba(255, 255, 255, 0.50);
+  }
+  
+  .card-msg-title{
+    margin-left: 1.5%;
+    padding-bottom: 10px;
+  }
