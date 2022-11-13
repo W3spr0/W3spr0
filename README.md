@@ -1,7 +1,8 @@
 # Olá eu sou Wesley
 
 - 👋 Amante da programação
-- Tenho algo de experiencia em HTML5, CSS3, JS, NodeJS(Front End e Back End)
+<h2>Habilidades</h2>
+HTML5, CSS3, JS e NodeJS(React, nextjs)
 - 👀 W3spr0 uma web aonde postare alguns dos meus trabalhos escolares este projeto está feito com html, css, js e bootstrap
 
 
